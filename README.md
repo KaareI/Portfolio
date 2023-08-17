@@ -1,1 +1,3 @@
-[go](https://kaarei.github.io/Portfolio/){:target="_blank" rel="noopener"}
+My Portfolio:
+
+https://kaarei.github.io/Portfolio/
